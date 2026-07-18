@@ -2,7 +2,7 @@
   "name": "rugenrplauncher",
   "version": "2.2.1",
   "productName": "RugenRP",
-  "description": "Launcheur moddé de RugneRP",
+  "description": "Launcheur moddé de RugenRP",
   "author": "Daniel Scalzi (https://github.com/dscalzi/), Seressy",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/LenoxMC/HeliosLauncher.git"
   }
 }

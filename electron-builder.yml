@@ -1,5 +1,5 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'rugenrplauncher'
+productName: 'RugenRP'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2026 Daniel Scalzi'
@@ -42,7 +42,7 @@ linux:
   maintainer: 'Daniel Scalzi'
   vendor: 'Daniel Scalzi'
   synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
+  description: 'Launcher moddé de RugenRP'
   category: 'Game'
 
 
